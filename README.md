@@ -10,8 +10,9 @@ Mainly to track -
 Every day, I'm here to empower your coding journey with fresh problem-solving solutions and valuable insights.  
 **If you find these daily nuggets of knowledge helpful, why not show some love and star ⭐️ this repository? It's a small gesture that goes a long way in fueling our coding odyssey together!**
 
-## [August 2023](#august-2023)  
-## [September 2023](#september-2023)
+[August 2023](#august-2023)  
+[September 2023](#september-2023)  
+[October 2023](#october-2023)
 
 ### August 2023  
 - [17_Aug_2023_Next_Smallest_Palindrome.java](https://github.com/divi-259/GFG/blob/main/Daily_GFG/August%202023%20POTD/17_Aug_2023_Next_Smallest_Palindrome.java)
