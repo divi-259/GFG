@@ -53,4 +53,5 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [19_Sep_2023_First_set_bit.java](https://github.com/divi-259/GFG/blob/main/Daily_GFG/September%202023%20POTD/19_Sep_2023_First_set_bit.java)  
 
 ### October 2023  
-- [4_Oct_2023_Count_Number_of_Substrings.java](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/4_Oct_2023_Count_Number_of_Substrings.java)
+- [5_Oct_2023_Count_Number_of_Substrings.java](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/5_Oct_2023_Count_Number_of_Substrings.java)
+- [6_Oct_2023_Reverse_alternate_nodes_in_Linked_List](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/6_Oct_2023_Reverse_alternate_nodes_in_Linked_List.java)
