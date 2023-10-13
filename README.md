@@ -55,6 +55,8 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 ### October 2023  
 - [5_Oct_2023_Count_Number_of_Substrings.java](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/5_Oct_2023_Count_Number_of_Substrings.java)
 - [6_Oct_2023_Reverse_alternate_nodes_in_Linked_List](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/6_Oct_2023_Reverse_alternate_nodes_in_Linked_List.java)
+- [10_Oct_2023_Nodes_at_a_given_distance_Binary_Tree](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/10_Oct_2023_Nodes_at_a_given_distance_Binary_Tree)
 - [11_Oct_2023_Check_For_Balanced_Tree](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/11_Oct_2023_Check_For_Balanced_Tree.java)
 - [12_Oct_2023_Duplicate_subtree_in_Binary_tree](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/12_Oct_2023_Duplicate_subtree_in_Binary_tree.java)
 - [13_Oct_2023_Floor_in_BST](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/13_Oct_2023_Floor_in_BST.java)
+- [14_Oct_2023_Find_Common_Nodes_in_Two_BSTs](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/14_Oct_2023_Find_Common_Nodes_in_Two_BSTs.java)
