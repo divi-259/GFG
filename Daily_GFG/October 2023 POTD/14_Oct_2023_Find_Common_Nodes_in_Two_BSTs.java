@@ -1,7 +1,7 @@
 /*
 Author : Divyanshi Dixit
 Date : Oct 14, 2023
-Problem : 
+Problem : Find Common Nodes in two BSTs
 Difficulty : Easy
 
 Problem Link: https://practice.geeksforgeeks.org/problems/print-common-nodes-in-bst/1
