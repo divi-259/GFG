@@ -60,3 +60,5 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [12_Oct_2023_Duplicate_subtree_in_Binary_tree](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/12_Oct_2023_Duplicate_subtree_in_Binary_tree.java)
 - [13_Oct_2023_Floor_in_BST](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/13_Oct_2023_Floor_in_BST.java)
 - [14_Oct_2023_Find_Common_Nodes_in_Two_BSTs](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/14_Oct_2023_Find_Common_Nodes_in_Two_BSTs.java)
+
+- [26_Oct_2023_Min_Operations](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/26_Oct_2023_Min_Operations.java)
