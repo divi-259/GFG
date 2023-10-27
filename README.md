@@ -62,3 +62,4 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [14_Oct_2023_Find_Common_Nodes_in_Two_BSTs](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/14_Oct_2023_Find_Common_Nodes_in_Two_BSTs.java)
 
 - [26_Oct_2023_Min_Operations](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/26_Oct_2023_Min_Operations.java)
+- [27_Oct_2023_Min_Deletions](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/27_Oct_2023_Min_Deletions.java)
