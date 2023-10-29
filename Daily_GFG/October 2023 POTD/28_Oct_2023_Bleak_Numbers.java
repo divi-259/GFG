@@ -1,6 +1,6 @@
 /*
 Author : Divyanshi Dixit
-Date : Oct , 2023
+Date : Oct 28, 2023
 Problem : Bleak Numbers
 Difficulty : Medium
 
