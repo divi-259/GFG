@@ -64,3 +64,4 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [26_Oct_2023_Min_Operations](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/26_Oct_2023_Min_Operations.java)
 - [27_Oct_2023_Min_Deletions](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/27_Oct_2023_Min_Deletions.java)
 - [28_Oct_2023_Bleak_Numbers](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/28_Oct_2023_Bleak_Numbers.java)
+- [29_Oct_2023_Check_Whether_Kth_Bith_is_set_or_not](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/29_Oct_2023_Check_Whether_Kth_Bith_is_set_or_not.java)
