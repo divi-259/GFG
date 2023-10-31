@@ -13,6 +13,7 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 [August 2023](#august-2023)  
 [September 2023](#september-2023)  
 [October 2023](#october-2023)
+[November 2023](#november-2023)
 
 ### August 2023  
 - [17_Aug_2023_Next_Smallest_Palindrome.java](https://github.com/divi-259/GFG/blob/main/Daily_GFG/August%202023%20POTD/17_Aug_2023_Next_Smallest_Palindrome.java)
@@ -65,3 +66,6 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [27_Oct_2023_Min_Deletions](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/27_Oct_2023_Min_Deletions.java)
 - [28_Oct_2023_Bleak_Numbers](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/28_Oct_2023_Bleak_Numbers.java)
 - [29_Oct_2023_Check_Whether_Kth_Bith_is_set_or_not](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/29_Oct_2023_Check_Whether_Kth_Bith_is_set_or_not.java)
+- [31_Oct_2023_Move_All_Zeros_to_end_of_Array](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/31_Oct_2023_Move_All_Zeros_to_end_of_Array.java)
+
+### November 2023
