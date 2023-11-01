@@ -12,7 +12,9 @@ Your task is to count the frequency of all numbers from 1 to N. Make in-place ch
 Note: The elements greater than N in the array can be ignored for counting and do modify the array in-place. 
 
 Solution Approach: 
-Using a hashmap to count the frequency and then traversing the array again to save the freq of i at arr[i]
+Using a hashmap to count the frequency and then traversing the array again to save the freq of i at arr[i].
+Alternate approach -  The modulo operation helps identify the original value of each element, and (n+1) is added to the corresponding index to update the count. Finally, 
+the array elements are divided by (n+1) to get the frequency count.
 */
 
 /* ------------CODE---------------- */
@@ -34,6 +36,33 @@ class Solution{
             else arr[i] = 0;
         }
     }
+
+    // Another solution with O(1) time complexity 
+    public static void frequencyCount(int arr[], int n, int P)
+{
+    // In this function, we're modifying the input array 'arr' to count the frequency of numbers.
+
+    // First, we iterate through the array to handle values greater than 'n'.
+    for (int i = 0; i < n; i++) {
+        if (arr[i] > n)
+            arr[i] = 0; // Values greater than 'n' don't have an index.
+    }
+
+    // Next, we iterate through the array to update the count of each element.
+    for (int i = 0; i < n; i++) {
+        if (arr[i] % (n + 1) > 0) {
+            // We use modulo to find the original value of the element
+            // and add (n+1) to the corresponding index to increment its count.
+            arr[(arr[i] % (n + 1)) - 1] += (n + 1);
+        }
+    }
+
+    // Finally, we divide each element by (n+1) to get the frequency count.
+    for (int i = 0; i < n; i++) {
+        arr[i] = arr[i] / (n + 1);
+    }
+}
+
 }
 /*
 Time Complexity: O(n)
