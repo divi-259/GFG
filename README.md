@@ -69,3 +69,4 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [31_Oct_2023_Move_All_Zeros_to_end_of_Array](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/31_Oct_2023_Move_All_Zeros_to_end_of_Array.java)
 
 ### November 2023
+- [1_Nov_2023_Freq_of_limited_range_array_elements](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/1_Nov_2023_Freq_of_limited_range_array_elements.java)
