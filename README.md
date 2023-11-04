@@ -12,7 +12,7 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 
 [August 2023](#august-2023)  
 [September 2023](#september-2023)  
-[October 2023](#october-2023)
+[October 2023](#october-2023)  
 [November 2023](#november-2023)
 
 ### August 2023  
@@ -73,4 +73,4 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [2_Nov_2023_Min_Distance_between_two_numbers](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/2_Nov_2023_Min_Distance_between_two_numbers.java)
 - [3_Nov_2023_Pythagorean_Triplet](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/3_Nov_2023_Pythagorean_Triplet.java)
 - [4_Nov_2023_Find_Transition_Point](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/4_Nov_2023_Find_Transition_Point.java)
-- [Top_k_frequent_elements_in_array][https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/Top_k_frequent_elements_in_array.java]
+- [Top_k_frequent_elements_in_array](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/Top_k_frequent_elements_in_array.java)
