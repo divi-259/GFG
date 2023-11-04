@@ -72,3 +72,4 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [1_Nov_2023_Freq_of_limited_range_array_elements](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/1_Nov_2023_Freq_of_limited_range_array_elements.java)
 - [2_Nov_2023_Min_Distance_between_two_numbers](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/2_Nov_2023_Min_Distance_between_two_numbers.java)
 - [3_Nov_2023_Pythagorean_Triplet](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/3_Nov_2023_Pythagorean_Triplet.java)
+- [4_Nov_2023_Find_Transition_Point](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/4_Nov_2023_Find_Transition_Point.java)
