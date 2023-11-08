@@ -12,7 +12,7 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 
 [August 2023](#august-2023)  
 [September 2023](#september-2023)  
-[October 2023](#october-2023)
+[October 2023](#october-2023)  
 [November 2023](#november-2023)
 
 ### August 2023  
@@ -61,7 +61,6 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [12_Oct_2023_Duplicate_subtree_in_Binary_tree](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/12_Oct_2023_Duplicate_subtree_in_Binary_tree.java)
 - [13_Oct_2023_Floor_in_BST](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/13_Oct_2023_Floor_in_BST.java)
 - [14_Oct_2023_Find_Common_Nodes_in_Two_BSTs](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/14_Oct_2023_Find_Common_Nodes_in_Two_BSTs.java)
-
 - [26_Oct_2023_Min_Operations](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/26_Oct_2023_Min_Operations.java)
 - [27_Oct_2023_Min_Deletions](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/27_Oct_2023_Min_Deletions.java)
 - [28_Oct_2023_Bleak_Numbers](https://github.com/divi-259/GFG/blob/main/Daily_GFG/October%202023%20POTD/28_Oct_2023_Bleak_Numbers.java)
@@ -73,4 +72,7 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [2_Nov_2023_Min_Distance_between_two_numbers](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/2_Nov_2023_Min_Distance_between_two_numbers.java)
 - [3_Nov_2023_Pythagorean_Triplet](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/3_Nov_2023_Pythagorean_Triplet.java)
 - [4_Nov_2023_Find_Transition_Point](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/4_Nov_2023_Find_Transition_Point.java)
-- [Top_k_frequent_elements_in_array][https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/Top_k_frequent_elements_in_array.java]
+- [5_Nov_Top_k_frequent_elements_in_array](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/Top_k_frequent_elements_in_array.java)
+- [6_Nov_2023_Letters_Collection](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/6_Nov_2023_Letters_Collection.java)
+- [7_Nov_2023_Sum_of_upper_and_lower_triangles](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/7_Nov_2023_Sum_of_upper_and_lower_triangles.java)
+- [8_Nov_2023_Print_matrix_in_snake_pattern](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/8_Nov_2023_Print_matrix_in_snake_pattern.java)
