@@ -77,3 +77,4 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [7_Nov_2023_Sum_of_upper_and_lower_triangles](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/7_Nov_2023_Sum_of_upper_and_lower_triangles.java)
 - [8_Nov_2023_Print_matrix_in_snake_pattern](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/8_Nov_2023_Print_matrix_in_snake_pattern.java)
 - [9_Nov_2023_Predict_the_column](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/9_Nov_2023_Predict_the_column.java)
+- [10_Nov_Number_Following_Pattern](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/10_Nov_Number_Following_Pattern.java)
