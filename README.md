@@ -79,3 +79,8 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
 - [9_Nov_2023_Predict_the_column](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/9_Nov_2023_Predict_the_column.java)
 - [10_Nov_Number_Following_Pattern](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/10_Nov_Number_Following_Pattern.java)
 - [11_nov_2023_Isomorphic_Strings](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/11_nov_2023_Isomorphic_Strings.java)
+ - []()
+ - []()
+ - []()
+ - []()
+ - [16_Nov_2023_Find_the_String](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/16_Nov_2023_Find_the_String.java)
