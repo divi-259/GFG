@@ -2,7 +2,7 @@
 Author : Divyanshi Dixit
 Date : Nov 17, 2023
 Problem : Reverse a doubly linked list
-Difficulty : Medium
+Difficulty : Easy
 
 Problem Link: https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1
 
@@ -47,13 +47,8 @@ class Solution
         prev.right = head;
         head.left = prev;
         return head;
-    }
-    
-   
-    
+    }    
 }
-    
-
 /*
 Time Complexity: O(n)
 Space Complexity: O(1) - in place
