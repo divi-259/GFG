@@ -87,6 +87,6 @@ Every day, I'm here to empower your coding journey with fresh problem-solving so
  - [17_Nov_2023_Binary_tree_to_CDLL](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/17_Nov_2023_Binary_tree_to_CDLL.java)
  - [18_Nov_2023_Reverse_a_Doubly_linked_List](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/18_Nov_2023_Reverse_a_Doubly_linked_List.java)
  - [19_Nov_Intersection_of_two_sorted_linked_lists](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/19_Nov_Intersection_of_two_sorted_linked_lists.java)
- - [](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/)
+ - [20_Nov_2023_K_Sum_paths](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/20_Nov_2023_K_Sum_paths.java)
  - [](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/)
  - [](https://github.com/divi-259/GFG/blob/main/Daily_GFG/November%202023%20POTD/)
